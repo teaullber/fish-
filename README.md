@@ -1,3 +1,5 @@
+该项目为使用React18+Hooks+Typescript打造的前端组件库，包括AutoComplete，Button，Input，Upload，Icon，Transition，Menu七大组件，并且为每个组件配对了相应的单元测试
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
