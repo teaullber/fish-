@@ -1,0 +1,6 @@
+//sass中 使用变量 #{x}
+@each $key, $val in $theme-colors {
+  .icon-#{$key} {
+    color: $val;
+  }
+}

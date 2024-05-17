@@ -1,0 +1,18 @@
+//css入口文件
+//下划线是为了告诉scss不要把文件编译入css，在导入的时候，不用写_
+@import "variables";
+@import "reboot";
+@import "mixin";
+@import "animation";
+//引入Button组件的样式
+@import "../components/Button/style";
+//引入Menu组件的样式
+@import '../components/Menu/style';
+//引入ICon组件的样式
+@import '../components/Icon/style';
+//引入Input组件的样式
+@import '../components/Input/style';
+//引入AutoComplete组件的样式
+@import '../components/AutoComplete/style';
+//引入Upload组件的样式
+@import '../components/Upload/style';
